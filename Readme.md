@@ -13,6 +13,13 @@ Para instalar Mongo se debe acceder a
 ~~~
 https://www.mongodb.com/es
 ~~~
-En productos desplegamos hasta Community Server 
+En productos desplegamos hasta Community Server y tambien abrimos el que dice Shell
+
+En Community Server y Shell, descargamos la ultima versión.
+
+Luego buscamos en un navegador database tools mongodb esto nos debe direccionar a "MongoDB Command Line Database Tools Download"
+
+## BSON
+Significa "Binary JSON" es una extension JSON que agrega tipos de datos binarios y una representación binaria eficiente.
 
 ## En construcción...
